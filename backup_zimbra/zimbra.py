@@ -18,8 +18,8 @@ for index,row in df.iterrows():
     navegador.maximize_window()
     
     
-    navegador.find_element(By.ID, 'ZLoginUserName').send_keys('admin') 
-    navegador.find_element(By.ID, 'ZLoginPassword').send_keys('@FcR!f3rr31r4@112K24!2024') 
+    navegador.find_element(By.ID, 'ZLoginUserName').send_keys('#Insert username') 
+    navegador.find_element(By.ID, 'ZLoginPassword').send_keys('#Insert password') 
     navegador.find_element(By.ID, 'ZLoginButton').click() 
     
     sleep(5)
@@ -48,8 +48,8 @@ for index,row in df.iterrows():
     
     sleep(5)
 
-    navegador.find_element(By.ID, 'ztabv__ACCT_EDIT_password').send_keys('Mudar@123') 
-    navegador.find_element(By.ID, 'ztabv__ACCT_EDIT_confirmPassword').send_keys('Mudar@123') 
+    navegador.find_element(By.ID, 'ztabv__ACCT_EDIT_password').send_keys('#Insert password') 
+    navegador.find_element(By.ID, 'ztabv__ACCT_EDIT_confirmPassword').send_keys('#Insert password') 
     
     sleep(5) 
     
