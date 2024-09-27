@@ -9,6 +9,9 @@ Para iniciar, é necessário preencher a planilha do Excel com os endereços de 
 
 O backup automático de e-mails representa uma solução prática e eficiente, garantindo que informações importantes estejam sempre protegidas e facilmente acessíveis. Essa abordagem contribui para uma gestão mais segura e organizada da comunicação digital, proporcionando tranquilidade aos usuários em relação à integridade de seus dados.<p>
 
+<img src= "https://github.com/user-attachments/assets/b2d056ef-83af-468d-98b7-ef61cb16465f"/>
+
+
 <h2>Linguagens e Bibliotecas Utilizadas</h2>
 
 <p align="left">
