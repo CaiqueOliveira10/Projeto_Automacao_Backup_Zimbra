@@ -14,7 +14,7 @@ df = pd.read_excel(nome_do_arquivo)
 
 for index,row in df.iterrows():
     navegador=webdriver.Firefox()
-    navegador.get("https://email.ferreiraechagas.com.br:7071/zimbraAdmin/")
+    navegador.get("#Site do acessso")
     navegador.maximize_window()
     
     
@@ -57,7 +57,7 @@ for index,row in df.iterrows():
 
     sleep(5) 
     
-    navegador.get('https://email.ferreiraechagas.com.br/')
+    navegador.get('#Site do acessso')
 
     sleep(5)  
 
@@ -67,7 +67,7 @@ for index,row in df.iterrows():
 
     sleep(5) 
     
-    navegador.find_element(By.ID, 'password').send_keys('Mudar@123') 
+    navegador.find_element(By.ID, 'password').send_keys('Senha para reset') 
 
     sleep(5) 
 
