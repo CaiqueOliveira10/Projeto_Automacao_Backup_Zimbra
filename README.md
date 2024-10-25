@@ -31,7 +31,8 @@ O backup automático de e-mails representa uma solução prática e eficiente, g
 
 <h2>Resumo do Projeto</h2>
 
-https://github.com/user-attachments/assets/d1cab258-394d-4e8b-9385-2b6fffd5270b
+https://github.com/user-attachments/assets/54a396f9-c9cc-4088-894e-6b814efd8aea
+
 
 
 
